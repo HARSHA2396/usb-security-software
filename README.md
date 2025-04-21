@@ -33,13 +33,7 @@ This software offers granular control over USB access for systems used in sensit
 - `matplotlib` (For USB activity graphs)
 - `Custom encryption modules` (for secure logs & config)
 
----
 
-## 📸 Screenshots
-
-> (Add 2-3 images of the interface: dashboard, alerts, whitelist manager, etc.)
-
----
 
 ## 📦 How to Run
 
