@@ -46,4 +46,4 @@ This software offers granular control over USB access for systems used in sensit
 1. Clone the repository:
    ```bash
    git clone https://github.com/HARSHA2396/usb-security-app.git
-   cd usb-security-app
+   cd usb-security-software
