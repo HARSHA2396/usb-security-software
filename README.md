@@ -41,3 +41,4 @@ This software offers granular control over USB access for systems used in sensit
    ```bash
    git clone https://github.com/HARSHA2396/usb-security-app.git
    cd usb-security-software
+   python file.py
